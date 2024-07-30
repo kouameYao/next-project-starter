@@ -1,0 +1,18 @@
+appName: paynah-web
+replicas: 1
+containerPort: 3000
+
+image:
+  repository: 043358453874.dkr.ecr.eu-west-2.amazonaws.com/paynah-web
+  tag: develop
+
+ingress:
+  host: paynah.com
+
+resources:
+  requests:
+    cpu: 16m
+    memory: 300Mi
+  limits:
+    cpu: 128m
+    memory: 1024Mi
