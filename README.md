@@ -14,8 +14,6 @@ yarn
 pnpm install
 ```
 
-![alt text](./docs/commit.png)
-
 - ## Project structure
 
 - ### Before un commit
