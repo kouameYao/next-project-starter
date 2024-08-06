@@ -3,7 +3,7 @@
 - ## To clone
 
 ```bash
-git clone https://github.com/Asernum/next-project-starter.git new-project
+git clone https://github.com/kouameYao/next-project-starter.git new-project
 cd new-project
 
 # then
