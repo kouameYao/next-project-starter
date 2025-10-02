@@ -1,0 +1,3 @@
+echo "🔍 Linting uniquement les fichiers modifiés..."
+
+npx lint-staged
